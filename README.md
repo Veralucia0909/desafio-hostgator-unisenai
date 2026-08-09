@@ -21,3 +21,4 @@ A solução processa os dados de forma automatizada utilizando regras lógicas e
 * **HTML5, CSS3 & JavaScript (ES6+)**
 * **Lógica baseada em Regras Condicionais e Manipulação de Arrays/JSON**
 * **Interface Responsiva**
+<img width="932" height="908" alt="image" src="https://github.com/user-attachments/assets/c5af8f42-19e1-4c8a-a251-eeb7cb724b64" />
