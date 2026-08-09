@@ -9,7 +9,7 @@
 > Painel web interativo para filtragem, contagem e classificação de mensagens de comunidade de tecnologia.
 
 <div align="center">
-  <img src="./assets/print-painel.png" alt="Painel de Análise de Mensagens" width="100%">
+  <img src="./assets/print.png" alt="Painel de Análise de Mensagens" width="100%">
 </div>
 
 ---
